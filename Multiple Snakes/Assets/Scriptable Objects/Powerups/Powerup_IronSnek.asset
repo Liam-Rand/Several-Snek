@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c5d98a71a21ac944be610c176e41051, type: 3}
+  m_Name: Powerup_IronSnek
+  m_EditorClassIdentifier: 
+  id: 4
+  name: Iron Scales
+  description: Your snek can't be killed by other sneks  for [effectTime] seconds,
+    but can still die other ways and kill other sneks!
+  effectTime: 10
+  icon: {fileID: 21300000, guid: 25460b24b90dca3419d2d17a7849223a, type: 3}
+  color: {r: 0.6901961, g: 0.6901961, b: 0.6901961, a: 1}

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1188412618681269245
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7359607132944762856}
+  - component: {fileID: 6822344677214197997}
+  - component: {fileID: 769624107888178692}
+  - component: {fileID: 5785173918892435251}
+  - component: {fileID: 6714061410113988201}
+  m_Layer: 0
+  m_Name: MultiplayerManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7359607132944762856
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188412618681269245}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.5120159, y: 0.623442, z: -9.973013}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6822344677214197997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188412618681269245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5010ca510a106c84aa40e3423ef9c13e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxPlayers: 4
+  playerColors:
+  - {r: 0.27058825, g: 1, b: 0.27058825, a: 1}
+  - {r: 0, g: 0.93424654, b: 1, a: 1}
+  - {r: 1, g: 0.18396229, b: 0.8153986, a: 1}
+  - {r: 1, g: 0.5797377, b: 0, a: 1}
+  - {r: 1, g: 0.07738829, b: 0, a: 1}
+  - {r: 0.9462812, g: 1, b: 0, a: 1}
+  - {r: 0.6447468, g: 0.21226418, b: 1, a: 1}
+  - {r: 0.24056602, g: 0.31992635, b: 1, a: 1}
+  gameSettings: {fileID: 5785173918892435251}
+  loadingScreenManager: {fileID: 0}
+--- !u!114 &769624107888178692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188412618681269245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GlobalObjectIdHash: 951099334
+  AlwaysReplicateAsRoot: 0
+  DontDestroyWithOwner: 0
+  AutoObjectParentSync: 1
+--- !u!114 &5785173918892435251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188412618681269245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd7ce8e85a8a54042bd1ad3d8508a2f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameMode:
+    m_InternalValue: {fileID: 0}
+  maxApples:
+    m_InternalValue: 0
+  enablePowerups:
+    m_InternalValue: 0
+  maxPowerups:
+    m_InternalValue: 0
+  enableObstacles:
+    m_InternalValue: 0
+  enableMapWrapping:
+    m_InternalValue: 1
+  enableStarvingSneks:
+    m_InternalValue: 0
+--- !u!114 &6714061410113988201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188412618681269245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f391ec3b2530a304e994c9896a691df7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setLastSnekStanding: {fileID: 11400000, guid: 199cbe03d1491fc4db764930efb8bbf5, type: 2}
+  setBiggestSnek: {fileID: 11400000, guid: 7623858c3a8774147aa45fb0a903df3b, type: 2}
+  setSnekExtermination: {fileID: 11400000, guid: 4c7203aea64cff145be4e560a77463d5, type: 2}
+  setKingOfTheSneks: {fileID: 11400000, guid: 0bd7763c4bc615e41b56f22b80e83f53, type: 2}
+  setTesting: {fileID: 11400000, guid: 28c67c6d185ae2d4ba921cc0fdee0891, type: 2}

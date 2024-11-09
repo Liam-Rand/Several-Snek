@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 116d899ff4a4b8a4cb42ef58b304845e, type: 3}
+  m_Name: Several Snek Manifest
+  m_EditorClassIdentifier: 
+  manifestFiles:
+  - fileName: MonoBleedingEdge
+    originDirectory: '[TempPath]\\MonoBleedingEdge.zip'
+    targetDirectory: '[ApplicationPath]'
+    isCompressed: 1
+  - fileName: Several Snek!_Data
+    originDirectory: '[TempPath]\\Several Snek!_Data.zip'
+    targetDirectory: '[ApplicationPath]'
+    isCompressed: 1
+  - fileName: 
+    originDirectory: '[TempPath]\\Several Snek!.exe'
+    targetDirectory: '[ApplicationPath]\\Several Snek!.exe'
+    isCompressed: 0
+  - fileName: 
+    originDirectory: '[TempPath]\\UnityCrashHandler64.exe'
+    targetDirectory: '[ApplicationPath]\\UnityCrashHandler64.exe'
+    isCompressed: 0
+  - fileName: 
+    originDirectory: '[TempPath]\\UnityPlayer.dll'
+    targetDirectory: '[ApplicationPath]\\UnityPlayer.dll'
+    isCompressed: 0
