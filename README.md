@@ -8,8 +8,11 @@
 <summary><h2>🗒️ Project Description</h2></summary>
 
 <br />
+Several Snek! is a remake of the classic Snake games that I did as a fun project! Along with your snake, called a snek in this game, all of the classic rules apply! You can't hit yourself or you die! Eating apples will increase the length of your snek by one!  Along with these and depending on how you want to play, you can also enable/disable classic features such as map wrapping (where you go off one side of the map and appear on the opposite side) for a more or less challenging experience!
 
-This project was created to familiarize myself with a multiplayer-focused game development architecture within the Unity game engine.
+<br /><br />Along with the classic snake experience, more fun features have been added!
+
+<br /><br />This project was created to familiarize myself with a multiplayer-focused game development architecture within the Unity game engine.
 Some aspects of this project include:
   - Utilization of Unity's Lobby system and multiplayer services to allow games to be hosted and joined without the need to port forward.
   - Client Authoritative networking
