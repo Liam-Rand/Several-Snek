@@ -28,7 +28,7 @@ It can be viewed and downloaded here: https://coba-platinum.itch.io/severalsnek
 
 <br /><br />
 
-*Coba Platinum is an alias that I have used since highscool when release anything to the public!
+*Coba Platinum is an alias that I have used since highscool when releasing anything to the public!
 
 <br />
 
