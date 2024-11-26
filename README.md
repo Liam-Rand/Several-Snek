@@ -24,8 +24,7 @@ There are some additional elements that were a part of this project, such as phy
 https://www.youtube.com/watch?v=GVoKFiD4At8
 
 <h2>📦 Project Repository</h2>
-This project was originally created using Bitbucket for source control! <br />
-To can access the original repository here: https://bitbucket.org/Liam_Rand/rand_alienworldportfolio/src/master/ 
+This project is fully available in this repository!
 </details>
 
 <br/>
