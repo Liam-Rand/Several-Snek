@@ -63,23 +63,19 @@ This project is fully available in this repository!
 <br />
 
 <p float="left">
-  <img src="Screenshots/HighresScreenshot00000.png" width="51%" />
-  <img src="Screenshots/Screenshot 2023-12-14 015848.png" width="47%" />
+  <img src="Screenshots/GameOptions.png" width="49%" />
+  <img src="Screenshots/Image Sequence_001_3840x2160.png" width="49%" />
 </p>
 <p float="left">
-  <img src="Screenshots/Screenshot 2023-12-14 015917.png" width="49%" />
-  <img src="Screenshots/Screenshot 2023-12-14 015942.png" width="49%" />
+  <img src="Screenshots/Image Sequence_008_3840x2160.png" width="49%" />
+  <img src="Screenshots/Image Sequence_011_3840x2160.png" width="49%" />
 </p>
 <p float="left">
-  <img src="Screenshots/Screenshot 2023-12-14 020007.png" width="49%" />
-  <img src="Screenshots/Screenshot 2023-12-14 020039.png" width="49%" />
-</p>
-<p float="left">
-  <img src="Screenshots/Screenshot 2023-12-14 020100.png" width="49%" />
-  <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
+  <img src="Screenshots/Image Sequence_013_3840x2160.png" width="49%" />
+  <img src="Screenshots/Image Sequence_014_3840x2160.png" width="49%" />
 </p>
 <p align="center">
-  <img src="Screenshots/Screenshot 2023-12-14 020127.png" width="49%" />
+  <img src="Screenshots/Image Sequence_016_3840x2160.png" width="49%" />
 </p>
 
 <details open> 
