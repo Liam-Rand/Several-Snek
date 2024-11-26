@@ -9,19 +9,22 @@
 
 <br />
 
-The Alien World Demo was a project created to utilize and familiarize myself with the terrain tools available within Unreal Engine 4. 
-Some aspects of this project include: 
-  - Using multi-layered materials to paint the terrain
-  -  procedural 3D grass placement based on terrain layer
-  -  3D modelling of foliage and terrain obstacles
-  -  Creating a custom color profile for the world skybox to create an alien atmosphere
+This project was created to familiarize myself with a multiplayer-focused game development architecture within the Unity game engine.
+Some aspects of this project include:
+  - Utilization of Unity's Lobby system and multiplayer services to allow games to be hosted and joined without the need to port forward.
+  - Client Authoritative networking
+  - Custom data handling and snycronization for the player characters over the network
+  - Networked player customization (color)
+  - Proper network error handling (i.e. host disconnect)
+  - Utilizing multiple scenes within a networked game
 
-There are some additional elements that were a part of this project, such as physics-based interactions and 3D audio, but the world building was the primary focus.
+There are some additional elements that were a part of this project, such as basic map generation, powerups, and different game-modes, but the multiplayer networking was the primary focus.
 
 <br />
 
-<h2>🎥 Project Videos</h2>
-https://www.youtube.com/watch?v=GVoKFiD4At8
+<h2>⬇️ Completed Project Download</h2>
+This project is fully playable and available on my itch.io page! 
+It can be viewed and downloaded here: https://coba-platinum.itch.io/severalsnek
 
 <h2>📦 Project Repository</h2>
 This project is fully available in this repository!
