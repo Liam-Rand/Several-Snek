@@ -39,8 +39,8 @@ This project is fully available in this repository!
 <br/>
 
 <p float="left">
-  <img src="Screenshots/Image Sequence_009_3840x2160.png" width="52%" />
-  <img src="Screenshots/Image Sequence_010_3840x2160.png" width="46%" />
+  <img src="Screenshots/Image Sequence_009_3840x2160.png" width="49%" />
+  <img src="Screenshots/Image Sequence_010_3840x2160.png" width="49%" />
 </p>
 <p float="left">
   <img src="Screenshots/Image Sequence_012_3840x2160.png" width="49%" />
