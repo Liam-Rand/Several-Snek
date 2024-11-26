@@ -26,7 +26,7 @@ There are some additional elements that were a part of this project, such as bas
 This project is fully playable and available on my itch.io page! <br />
 It can be viewed and downloaded here: https://coba-platinum.itch.io/severalsnek
 
-<br />
+<br /><br />
 
 *Coba Platinum is an alias that I have used since highscool when release anything to the public!
 
