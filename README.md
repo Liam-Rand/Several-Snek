@@ -98,7 +98,7 @@ As mentioned in the previous section, majority of the challenges faced within th
 
 - **How could this artifact be improved?**
 
-The artifact originally contained a terrain with materials applied and the UFOs placed around the map as cones. This artifact was improved by introducing fully materialled custom models to almost every aspect of the terrain and the objects placed around the terrain. Along with this, grass was added to the terrain that is dynamically placed based on the material used at that position on the terrain.
+There are many different aspects of this project that I feel could be improved, but if I were to work on the project again, my top priority would probably be to swith the networking from a client-authoritative to a server-authoritative model. I initially decided to develop with a client-authoritative model due to the lower amount of complexity when developming and implementing the networking logic for the game, but this eventually led to some unintended consequences, especially wth collision detection for the different player characters (the snakes). Switching to a server-authoritative model where the player movement and collision is all calculated on the server and then synced to the connected clients would essentially solve a lot of the issues that I ended up encountering during the course of developing this project!
 </details> 
 
 <br />
