@@ -96,11 +96,7 @@ This project gave me a chance to learn the many systems and techniques that make
 
 Honestly, I feel that there were not really any challenges within this project, as it was heavily focused on just trying things out and having fun with it. Some things needed to be redesigned, as I did not like how they fit with the rest of the environment, but that was about as challenging as it got.
 
-- **How did you incorporate feedback as you made changes to the artifact?**
-
-Similar to many of my other projects, feedback was incorporated by keeping a solid lane of communication open between me and the client, in this case a professor. As this was more of just a creative project, this required a minimal amount of feedback other than ensuring overall functionality of the artifact.
-
-- **How was the artifact improved?**
+- **How could this artifact be improved?**
 
 The artifact originally contained a terrain with materials applied and the UFOs placed around the map as cones. This artifact was improved by introducing fully materialled custom models to almost every aspect of the terrain and the objects placed around the terrain. Along with this, grass was added to the terrain that is dynamically placed based on the material used at that position on the terrain.
 </details> 
