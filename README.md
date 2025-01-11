@@ -94,7 +94,7 @@ This project gave me a chance to learn the many systems and techniques that make
 
 - **What challenges did you face?**
 
-Honestly, I feel that there were not really any challenges within this project, as it was heavily focused on just trying things out and having fun with it. Some things needed to be redesigned, as I did not like how they fit with the rest of the environment, but that was about as challenging as it got.
+As mentioned in the previous section, majority of the challenges faced within the development of this game were related to having to completely rethink how the logic within a game should be implemented during development. Having to decide what information should be client-side vs server-side, what information should be only calculated on the clients, what information should be sent to/from the server, and more were all very challenging experiences in order to make a fully functional and optimized/effecient multiplayer game.
 
 - **How could this artifact be improved?**
 
