@@ -90,7 +90,7 @@ I feel that creating and polishing this artifact was very enjoyable and challeng
   
 - **What did you learn as you were creating it and improving it?**
 
-This project gave me a change to become more familiar with the terrain tools, materials, and sound effect tools within Unreal Engine 4. I was really excited to learn about the dynamic grass placement based on the material used within the terrain, as well as creating dynamic movement and gradients within a material using their material editor. Along with this, I was able to continue refining my skills within Blender, though I have already had quite a bit of experience using this tool in the past.
+This project gave me a chance to learn the many systems and techniques that make a multiplayer game possible. I was able to gain knowledge with with different game-related multiplayer architectures, such as peer-to-peer, client-server, etc. and when their strengths and weaknesses for different play styles within a game. I was able to learn how clients communicate with the server, and vice versa, in order to sync the game state for all players, whether that be player locations, enemy locations, animations, player statistics, and more. Whilw working on this project, I had to completely rethink about how game logic clasically works within a singleplayer experience, as a lot of different implementations for one more than likely will not work for the other. I also gained experience with Unity's multiplayer tools, specifically netcode for game objects and their lobby system, in order to complete this project.
 
 - **What challenges did you face?**
 
