@@ -86,7 +86,7 @@ This project is fully available in this repository!
 
 - **How would you describe the process of creating and polishing the artifact?**
   
-I feel that creating and polishing this artifact was very enjoyable, as it really allowed me to use creativity and my imagination. For this project, I really wanted to focus on creating the atmosphere of a game level while also attempting to make all of the assets: such as sound, models, materials, and more, myself. I feel that I was really able to accomplish this, creating a very specific, alien-like atmosphere within the level, even though it is only a small demo area.
+I feel that creating and polishing this artifact was very enjoyable and challenging, as I had to learn a completely different game architecture to create a fun and engaging multiplayer experience. I started with a basic idea of what I wanted to do, which was a multiplayer version of the classic snake game, and began from there. I first created a singleplayer prototype of the game, allowing my to plan and develop the different game mechanics for the game, followed by implementing working multiplayer into the game. Though this is not the recommended method of creating a multiplayer game, as it takes a lot more work, it did allow me to get a full understanding of the differences between crafting a singleplayer and multiplayer experience from behind the scenes.
   
 - **What did you learn as you were creating it and improving it?**
 
