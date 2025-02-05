@@ -57,8 +57,6 @@ This project is fully available in this repository!
 
 <img align="center" alt="Unity" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/> [Unity] - Primary Game Engine
 
-<img align="center" alt="Visual Studio" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/> [Blender] - 3D Modelling
-
 <img align="center" alt="Git" width="40px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> [Git] - Source Control
 
 </details> 
